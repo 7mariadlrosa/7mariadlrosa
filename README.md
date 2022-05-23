@@ -10,7 +10,7 @@
 
 ## ABOUT ME
 
-I have a multidisciplinary and transversal profile oriented to the consecution of projects. I come from the world of design and therefore I'm used to working with tight dead lines and customer-oriented.
+I have a multidisciplinary and transversal profile oriented to projects. I come from the world of design and therefore I'm used to working with tight dead lines and customer-oriented.
 
 I have completed my profile learning Full stack Development at Ironhack, which has given me the knowledge and discipline to carry out digital projects from the initial idea to the final production.
 
