@@ -30,8 +30,11 @@ Adobe Indesign CC , Photoshop CC, Illustrator CC, Lightroom CC, Premiere Pro CC 
 
 "All on board" is a Full-Stack and single page application with React, MERN Stack, GoogleMaps, GeoCode, MongoDBAtlas, etc. Developed in two week. You can see the client code [here](https://github.com/7mariadlrosa/All-on-Board-client) and the server code [here](https://github.com/7mariadlrosa/All-on-Board-server).
 
+ 
+ ##
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7mariadlrosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :hammer_and_wrench: LANGUAJES AND TOOLS:
+## LANGUAJES AND TOOLS:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -40,12 +43,8 @@ Adobe Indesign CC , Photoshop CC, Illustrator CC, Lightroom CC, Premiere Pro CC 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  </div>
+
  
- 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7mariadlrosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-### :fire: MY STATS :
+## MY STATS :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=7mariadlrosa&theme=dark&background=000000)](https://git.io/streak-stats)
