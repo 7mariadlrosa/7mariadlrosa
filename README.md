@@ -1,8 +1,8 @@
 ### ✨ Hi, I´m María ✨
 
-- 📫 How to reach me: ... 7mariadlrosa@gamil.com / 671 194 671
+ 📫 How to reach me: ... 7mariadlrosa@gamil.com / 671 194 671
 
-- 💖 Pronouns: She/Her
+ 💖 Pronouns: She/Her
 
 ## ABOUT ME
 
@@ -15,12 +15,12 @@ HTML, Javascript, CSS, React, Node.js, Express, MongoDB.
 
 Adobe Indesign CC , Photoshop CC, Illustrator CC, Lightroom CC, Premiere Pro CC y XD CC. Sketch y Marvel. 
 
-- 🌱 I’m currently learning ... TypeScript
+ 🌱 I’m currently learning ... TypeScript
 
 ## PROJECTS
 
- Iron-Kombat is a pikel-art videogame inspired in MortalKombat developed with Javascript and Canvas in one week.
+ [Iron-Kombat](https://github.com/7mariadlrosa/IRON-KOMBAT-BIEN) is a pikel-art videogame inspired in MortalKombat developed with Javascript and Canvas in one week.
 
-RIJKS is a Full-Stack application based on the Rijks Museum API, developed with MongoDB, Express and NodeJS. Make community, save as favourite, join events and create new ones, edit your profile etc (CRUD). Diferents roles and conditional rendering for each one. Developed in one week.
+[RIJKS](https://github.com/7mariadlrosa/RIJKS-v.2/tree/main/RIJKS-v.2) is a Full-Stack application based on the Rijks Museum API, developed with MongoDB, Express and NodeJS. Make community, save as favourite, join events and create new ones, edit your profile etc (CRUD). Diferents roles and conditional rendering for each one. Developed in one week.
 
-All on board Full-Stack and single page application with React, MERN Stack, GoogleMaps, GeoCode. Developed in two week. You can see the client code here and the server code here.
+[All on board]() Full-Stack and single page application with React, MERN Stack, GoogleMaps, GeoCode. Developed in two week. You can see the client code here and the server code here.
