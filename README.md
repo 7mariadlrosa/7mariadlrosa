@@ -1,6 +1,7 @@
 ### ✨ Hi, I´m María ✨
 
  📫 How to reach me: ... 7mariadlrosa@gamil.com / 671 194 671
+ 👩🏼‍💻 [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fern%C3%A1ndez-de-la-rosa-0383a3121/?locale=en_US)
 
  💖 Pronouns: She/Her
 
