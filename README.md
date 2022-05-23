@@ -4,6 +4,8 @@
  📫 How to reach me: 671 194 671 / 7mariadlrosa@gmail.com  
  
  👩🏼‍💻 [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fern%C3%A1ndez-de-la-rosa-0383a3121/?locale=en_US)
+ 
+ 💪🏻 I'm open to work as a Front-end or Full Stack developer. 
 
 
 ## ABOUT ME
