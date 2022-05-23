@@ -19,7 +19,7 @@ Adobe Indesign CC , Photoshop CC, Illustrator CC, Lightroom CC, Premiere Pro CC 
 
 ## PROJECTS
 
-Iron-Kombat is a pikel-art videogame inspired in MortalKombat developed with Javascript and Canvas in one week.
+ Iron-Kombat is a pikel-art videogame inspired in MortalKombat developed with Javascript and Canvas in one week.
 
 RIJKS is a Full-Stack application based on the Rijks Museum API, developed with MongoDB, Express and NodeJS. Make community, save as favourite, join events and create new ones, edit your profile etc (CRUD). Diferents roles and conditional rendering for each one. Developed in one week.
 
