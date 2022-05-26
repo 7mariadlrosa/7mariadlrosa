@@ -27,7 +27,7 @@ Adobe Indesign CC , Photoshop CC, Illustrator CC, Lightroom CC, Premiere Pro CC 
 
 "[Iron-Kombat](https://github.com/7mariadlrosa/IRON-KOMBAT-BIEN)" is a pixel-art videogame, inspired in MortalKombat, developed with Javascript and Canvas in one week.
 
-"[RIJKS](https://github.com/7mariadlrosa/RIJKS-v.2/tree/main/RIJKS-v.2)" is a Full-Stack application based on the Rijks Museum API, developed with MongoDB, Express and NodeJS. Make community, save as favourite, join events and create new ones, edit your profile, etc (CRUD). Diferents roles and conditional rendering for each one. Developed in one week.
+"[RIJKS]([https://github.com/7mariadlrosa/RIJKS-v.2/tree/main/RIJKS-v.2](https://github.com/7mariadlrosa/RIJKS))" is a Full-Stack application based on the Rijks Museum API, developed with MongoDB, Express and NodeJS. Make community, save as favourite, join events and create new ones, edit your profile, etc (CRUD). Diferents roles and conditional rendering for each one. Developed in one week.
 
 "All on board" is a Full-Stack and single page application with React, MERN Stack, GoogleMaps, GeoCode, MongoDBAtlas, etc. Developed in two week. You can see the client code [here](https://github.com/7mariadlrosa/All-on-Board-client) and the server code [here](https://github.com/7mariadlrosa/All-on-Board-server).
 
