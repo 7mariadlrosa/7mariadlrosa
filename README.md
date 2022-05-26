@@ -5,7 +5,7 @@
  
  👩🏼‍💻 [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fern%C3%A1ndez-de-la-rosa-0383a3121/?locale=en_US)
  
- 💪🏻 I'm open to work as a Front-end or Full Stack developer. 
+ 💪🏻 Currently doing a JAVA Bootcamp(8 weeks) with a Scholarship from [Accenture](https://www.accenture.com/es-es?c=acn_glb_brandexpressiongoogle_12727908&n=psgs_1221&gclid=CjwKCAjwyryUBhBSEiwAGN5OCNM0oHEbUPCVop7IRVa_cCBvpGHmv0w2DZq7lFN7dHa-N8YgilPnLxoC8bsQAvD_BwE). Learning Java, Java microservices and SQL.  
 
 
 ## ABOUT ME
@@ -20,7 +20,8 @@ HTML, Javascript, CSS, React, Node.js, Express, MongoDB.
 
 Adobe Indesign CC , Photoshop CC, Illustrator CC, Lightroom CC, Premiere Pro CC y XD CC. Sketch y Marvel. 
 
- 🌱 I’m currently learning ... TypeScript
+ 🌱 I’m currently learning ... Java and SQL
+
 
 ## PROJECTS
 
