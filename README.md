@@ -5,7 +5,7 @@
  
  👩🏼‍💻 [Linkedin](https://www.linkedin.com/in/mar%C3%ADa-fern%C3%A1ndez-de-la-rosa-0383a3121/?locale=en_US)
  
- 💪🏻 Currently doing a JAVA Bootcamp(8 weeks) with a Scholarship from [Accenture](https://www.accenture.com/es-es?c=acn_glb_brandexpressiongoogle_12727908&n=psgs_1221&gclid=CjwKCAjwyryUBhBSEiwAGN5OCNM0oHEbUPCVop7IRVa_cCBvpGHmv0w2DZq7lFN7dHa-N8YgilPnLxoC8bsQAvD_BwE). Learning Java, Java microservices and SQL.  
+ 💪🏻 Currently attending JAVA Bootcamp (9 weeks) with a Scholarship from [Accenture](https://www.accenture.com/es-es?c=acn_glb_brandexpressiongoogle_12727908&n=psgs_1221&gclid=CjwKCAjwyryUBhBSEiwAGN5OCNM0oHEbUPCVop7IRVa_cCBvpGHmv0w2DZq7lFN7dHa-N8YgilPnLxoC8bsQAvD_BwE). Learning Java, Java microservices and SQL.  
 
 
 ## ABOUT ME
